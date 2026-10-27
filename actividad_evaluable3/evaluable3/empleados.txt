@@ -1,0 +1,15 @@
+1:Pierre Grosman:56:CEO:120000
+2:Marie Gautier:47:Recursos Humanos:60000
+10:Francisco Jose Perez:60:Dpto.Financiero:56000
+24:Marta Lopez:28:Jefa de equipo:36000.78
+38:Julia Delgado:35:Marketing:34000.53
+49:Paul Martin:40:Supervisor de Operaciones:32500.08
+123:Laura Diaz:32:Community Manager:28000.56
+150:Andrea Ricci:40:Gestor de Flota:31000.20
+205:Amari Matamba:23:Agente de Atencion al Cliente:25987.04
+269:Dario Gomez:35:Maquinista Senior:41000
+311:Victor Perez:30:Maquinista Junior:22000
+560:Ayla Karamustafova:27:Tripulacion de Servicios T3:30000
+609:Kevin Diego Rodriedguez:24:Tripulacion de Servicios T1:22000
+789:Lucas Muñoz:46:Comercial:46000
+896:Juan Pablo Gomez:40:Finanzas:32000
